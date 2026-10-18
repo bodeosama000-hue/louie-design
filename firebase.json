@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "louie-design",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
